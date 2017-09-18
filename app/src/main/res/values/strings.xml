@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+
+    <string-array name="list">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+</resources>
